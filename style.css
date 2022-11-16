@@ -1,0 +1,8 @@
+ .pic{
+  width: 250px;
+  height: 250px;
+  border-radius: 5%;
+  border-style: groove;
+  border-width: 3%;
+  border-color: red;
+}
